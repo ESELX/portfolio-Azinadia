@@ -12,4 +12,6 @@ certo então decidi focar-me só em colocar o conteúdo.
 
 4. 29/04 - Consegui criar o número total de separadores e agregar os icons necessários.
 
-5. 30/04 - 
+5. 30/04 - Inserção de conteúdos e algumas dúvidas de como alinhar as imagens e videos.
+
+6. 
